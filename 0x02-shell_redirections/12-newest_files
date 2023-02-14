@@ -1,2 +1,2 @@
 #!/bin/bash
-ls  -al --time-style=+%D | grep 'date +%D'
+ls -t | head
