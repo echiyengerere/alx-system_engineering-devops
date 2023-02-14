@@ -1,2 +1,2 @@
 #!/bin/bash
-du | -nr
+du | sort -nr
