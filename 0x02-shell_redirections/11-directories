@@ -1,2 +1,2 @@
 #!/bin/bash
-du | sort -nr
+find . -type d -path './*' -print | wc -l
