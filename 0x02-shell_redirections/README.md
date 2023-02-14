@@ -1,1 +1,1 @@
-0-hello_world
+Readme document to shell i/o redirections
